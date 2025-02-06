@@ -1,0 +1,22 @@
+#ExitDorpdown:hover{
+    background-color: rgba(255, 0, 0, 0.882);
+    color: white;
+    transition: all 0.3s;
+}
+
+.nav-item:hover{
+    background-color: rgb(65, 65, 245);
+    color: white !important;
+    transition: all 0.3s;
+}
+
+#linkUl:hover{
+    color: white!important;
+    transition: all 0.3s;
+}
+
+#dropdownId:hover{
+    background-color: rgb(45, 45, 241);
+    color: white;
+    transition: all 0.3s;
+}
